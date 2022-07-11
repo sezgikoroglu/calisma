@@ -1,0 +1,17 @@
+.formsize{
+    width: 275px;
+    background-color: rgba(241, 240, 240, 0.993);
+    border-radius: 10px;
+    border: none;
+
+}
+
+.cardbodysize{
+    height: 100px;
+   
+}
+
+.mtt{
+    margin-top: 1px;
+    margin-bottom: 1px;
+}
